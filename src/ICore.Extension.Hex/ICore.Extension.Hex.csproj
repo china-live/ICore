@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Version>0.9.0</Version>
+    <Description>对System.String、System.Byte扩展，方便进行16进制字符串和字节（字节数组/集合）之间互转。</Description>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/china-live/iCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/china-live/iCore</RepositoryUrl>
+    <PackageTags>ExtensionMethods</PackageTags>
+  </PropertyGroup>
+</Project>
